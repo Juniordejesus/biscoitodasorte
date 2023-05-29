@@ -1,4 +1,3 @@
-// Variáveis
 const screen1 = document.querySelector('.screen1');
 const screen2 = document.querySelector('.screen2');
 const btn1 = document.querySelector('.btn1');
