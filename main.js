@@ -5,13 +5,12 @@ const img1 = document.querySelector(".img1");
 
 
 
-img1.addEventListener('click', function()
-{
+img1.addEventListener('click', function(e){
     screen1.classList.toggle("hide")
     screen2.classList.toggle("hide")
 })
 
-btn1.addEventListener('click', function(){
+btn1.addEventListener('click', function(e){
 screen1.classList.toggle("hide")
 screen2.classList.toggle("hide")
 })
