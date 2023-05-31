@@ -11,6 +11,6 @@ img1.addEventListener('click', function(e){
 })
 
 btn1.addEventListener('click', function(e){
-screen1.classList.toggle("hide")
-screen2.classList.toggle("hide")
+    screen1.classList.toggle("hide")
+    screen2.classList.toggle("hide")
 })
